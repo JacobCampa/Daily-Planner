@@ -16,7 +16,7 @@ The user will be able to add an event and save it into local storage so if the p
 
 No installation needed, just go to the deployed page here:
 
-
+https://jacobcampa.github.io/Daily-Planner/
 
 ## Usage
 
